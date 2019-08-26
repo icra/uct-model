@@ -2,13 +2,6 @@
 
 Code wrote in TurboPascal 4 in the late 1980s and early 1990s.
 
-Nowadays (2019) it could be compiled using the compiler Free Pascal (fpc)
-(https://www.freepascal.org/). This means that executable files can be generated for
-different operating systems.
-
-## compilation status
-2019-08-26: unsuccessful (tried with FPC compiler under Linux Debian OS)
-
 ## Nitrification and Nitrification/Denitrification Systems
 
 by P L Dold, M C Wentzel, A E Billing, G A Ekama and G v R Marais, year 1991.
@@ -18,3 +11,12 @@ Department of Civil and Chemical Engineering
 University of Cape Town
 Rondebosch 7700
 Republic of South Africa
+
+## Current status
+Nowadays (2019) it could be compiled using the compiler Free Pascal (fpc)
+(https://www.freepascal.org/). This means that executable files can be generated for
+different operating systems.
+
+## Compilation attempts
+2019-08-26: unsuccessful (tried with FPC compiler under Linux Debian OS, see Issues).
+
