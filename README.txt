@@ -20,3 +20,5 @@ different operating systems.
 ## Compilation attempts
 2019-08-26: unsuccessful (tried with FPC compiler under Linux Debian OS, see Issues).
 
+## discussion was opened on August 2019 on this thread to attempt a compilation
+https://forum.lazarus.freepascal.org/index.php/topic,46538.0.html
