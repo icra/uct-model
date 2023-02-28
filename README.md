@@ -20,3 +20,6 @@ different operating systems.
 
 ## A discussion was opened on August 2019 on this forum thread to attempt a compilation with help of free pascal community
 https://forum.lazarus.freepascal.org/index.php/topic,46538.0.html
+
+## Note
+conversion of original .did files to .csv can be done in python using this script: https://github.com/holalluis/retrieve
